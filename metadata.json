@@ -1,0 +1,8 @@
+{
+  "name": "My PG",
+  "description": "A comprehensive platform to find PGs, hostels, and apartments with real-time GPS tracking, rent categories, and an admin panel for property owners.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
